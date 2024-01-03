@@ -1,0 +1,58 @@
+[
+  {
+    "id":1,
+    "name":"Laptop Lenovo ThinkPad T480s 14'' FHD, i5-8350U 1.70 GHz, Touchscreen,Intel Core  8GB DDR4, 256GB SSD",
+    "price":"261.95 GBP",
+    "description":"Lenovo ThinkPad T480s is a lightweight and slim laptop, equipped with an 8th Generation Intel® Core™ i5-8350U with vPro™ processor (1.70 GHz, up to 3.60 GHz with Turbo Boost, 4 Cores, 8 Threads, 6 MB Cache), 8GB DDR4-2400 MHz RAM, 256 GB PCIe NVMe M.2 SSD storage, and a 14.0'' FHD (1920x1080) anti-glare, LED backlight, IPS display, offering up to 15.6 hours of battery life and a range of useful ports, including the ultra-fast Intel® Thunderbolt™ 3.",
+    "imgUrl":"https://s1.cel.ro/images/Products/2023/10/09/laptop-refurbished-lenovo-thinkpad-t480s-intel-core-i7-8550u-1-80-ghz-up-to-4-00-ghz-24gb-ddr4-512gb-nvme-01294a95.jpg"
+  },
+  {
+    "id":2,
+    "name":"Laptop Lenovo V15 G3 IAP processor Intel® Core™ i3-1215U up to 4.4 GHz, 15.6'', Full HD, 8GB, 256GB SSD, Intel® UHD Graphics, No OS, Business Black",
+    "price":"261.47 GPB",
+    "description":" The Lenovo V15 G3 IAP laptop, equipped with an Intel® Core™ i3-1215U processor up to 4.4 GHz, a 15.6’’ Full HD display, 8GB of RAM, a 256GB SSD, Intel® UHD Graphics, and no operating system, is a Business Black model that comes with a 3-year Courier or Carry-in warranty.",
+    "imgUrl":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSf6u-4inzMHUu-zJO3TIsTjgLKh1xaeGJevDJM4HhPIE8mI2zlOgw3xgRG7cd6xgkOwS-huQtRv2YCrHXzLMaSAfPnY-lZqVYyo8vZPfep&usqp=CAc"
+  },
+  {
+    "id":3, 
+    "name":"HP 250 G9 laptop with Intel® Core™ i3-1215U processor up to 4.40 GHz, 15.6’’ Full HD, 8GB, 512GB SSD, Intel® UHD Graphics, Free DOS, Dark Ash Silver.",
+    "price":"296.90 GBP",
+    "description":"The HP 250 G9 laptop, equipped with an Intel® Core™ i3-1215U processor with speeds up to 4.40 GHz, a 15.6’’ Full HD display, 8GB of RAM, a 512GB SSD, Intel® UHD Graphics, and Free DOS operating system, comes in a sleek Dark Ash Silver finish",
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrnnYPL2XaCsErFS_qJM77cdT--D1kxbYLlyvS-oK6qviiEE_3RtUfpog72WQ-fzlDZKPQH1_GJ9zeDmlUVWsQ_Z3pAudDqpLsA55vFsWaufHlkWEN2y-HC1shH-A&usqp=CAc"
+  },
+  {
+    "id":4,
+    "name":"Laptop ASUS Vivobook Go 15 E1504FA processor Intel® Core™ i3-N305 up to 3.80 GHz, 15.6'', Full HD, IPS, 8GB, 256GB M.2 NVMe™ PCIe® 3.0 SSD, Intel® UHD Graphics, No OS, Grey",
+    "price":"279.42 GBP",
+    "description":"ASUS Vivobook Go 15 E1504FA is a laptop that features an AMD Ryzen™ 5 7520U processor, 8GB of DDR5 RAM, a 512GB M.2 NVMe™ PCIe® 3.0 SSD, AMD Radeon Graphics, and runs on Windows 11 Home.",
+    "imgUrl":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTRof9-Kawbb1YaB1g56tvalLWBhsJCwWHyV_xvlFJP0fFk-Gf_fd9_viDv2n1OjZEslNTsMIyL5lB1qhX4eqjVwfo3Y_un0YgjRQK2rVUZZ3ug7mYplmDvol4Is8&usqp=CAc"
+  },
+  {
+    "id":5,
+    "name":"Laptop Dell Vostro 3520 processor Intel® Core™ i5-1235U up to 4.40 GHz, 15.6'', Full HD, 120Hz, 8GB DDR4, 512GB SSD, Intel® UHD Graphics, Ubuntu, Carbon Black, 3y ProSupport and Next Business Day Onsite Service",
+    "price":"401.75 GBP",
+    "description":" Dell Vostro 3520 laptop is equipped with an 11th Gen Intel® Core™ i5-1135G7 processor with 8 MB cache, 4 cores, 8 threads, and speeds up to 4.20 GHz Turbo. It runs on Windows 11 Pro and features Intel® Iris® Xe Graphics. The laptop has a 15.6'' Full HD display with a resolution of 1920x1080 and a refresh rate of 120Hz. It comes with 16 GB of memory (2 x 8 GB, DDR4, 3200 MT/s) and a 512 GB M.2 PCIe NVMe SSD for storage.",
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAx5CDvrQ8OVzRFkSv0BZtdz1c71goQntqp8fg-oazTTQKA4-bHpo8sBOw2GPTbVaPn9DWTlnKO6PfSoCzRjoVITWRJrL90FC2PB5LbVM-7dWuofzpo7PosPguPOk-&usqp=CAc"
+  },
+  {
+     "id":6,
+      "name":"Laptop HP 15s-fq5039nq processor Intel® Core™ i3-1215U up to 4.40 GHz, 15.6'' FHD, 8GB, 512GB PCIe SSD, Intel UHD Graphics, FreeDOS, Chalkboard Gray",
+      "price":"419.22 GBP",
+      "description":"HP 15s-fq5039nq is a lightweight laptop with a 15.6'' Full HD display, powered by an Intel® Core™ i3-1215U processor, 8GB of DDR4 memory, a 512GB SSD, and features such as a long battery life, HP Fast Charge, and Wi-Fi® and Bluetooth® connectivity.",
+     "imgUrl":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvjpQWtyNVo99MgofSn_FmMwX-bHRmsnl4kQNbMApFw7TpI8hSK_eNeSXzNDZu7b3C4AzhZWnh23sRm1Tqtvhbqy7s1OYIirIZKTuhNvk&usqp=CAc"
+  },
+  {
+      "id":7,
+      "name":"Laptop Acer Aspire 3 A315-58 processor Intel® Core™ i5-1135G7 up to 4.20 GHz, 15.6'', Full HD, IPS, 8GB, 512GB SSD, Intel® Iris® Xe Graphics, No OS, Silver",
+      "price":"226.65 GBP",
+      "description":"The Acer Aspire 3 A315-58 is a laptop that features an Intel® Core™ i3-1115G4 processor, 8GB of DDR4 SDRAM, a 128GB PCIe SSD, and a 15.6'' Full HD IPS ComfyView display, with connectivity options including Gigabit Ethernet, Wi-Fi 5, and Bluetooth 5.012.",
+     "imgUrl":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVWIACfVSODfENI_LS4HNbpLaTVkfa-onDhGXxvJIkghLzkJfRkPDl3JtIl6TM2FQkQ2XdGi9ShPkpbCsEtl7FJEKsk_36KkHMSmyTenc&usqp=CAc"
+  },
+  {
+      "id":8,
+      "name":"Laptop Lenovo IdeaPad 3 15ITL6 processor Intel Core i3-1115G4, 15.6'' Full HD IPS, 8GB, 256GB SSD, Intel UHD Graphics, No OS, Sand",
+      "price":"414.85 GBP",
+      "description":"Lenovo IdeaPad 3 15ITL6 is a laptop that features an 11th Generation Intel® Core™ i7 processor, up to 16GB of DDR4 memory, up to 1TB M.2 SSD, and a 15.6'' Full HD IPS display, with connectivity options including Wi-Fi 6 and Bluetooth12.",
+     "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4bH-AYZJZ8AvEMSEZGOpONnkbk11hD7Gprw&usqp=CAU"
+  }
+]

@@ -1,0 +1,127 @@
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 14rem);
+    justify-content: center;
+    align-items: center;
+    column-gap: 1rem;
+    margin-top: 0.8rem;
+}
+
+.card {
+    height: 25rem;
+    background-color: #ffffff;
+    margin-bottom: 1rem;
+    border: 0.2px solid #000000;
+}
+
+.card__image {
+    height: 10rem;
+    width: 12rem;
+    margin-left: 1rem;
+    padding-top: 1rem;
+}
+
+.card-link {
+    color: #000000;
+    text-decoration: none;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+    text-decoration-color: #000000;
+}
+
+ .card__name {
+    font-weight: 400;
+    padding: 2rem 0.5rem 0 0.5rem;
+} 
+
+.card__price {
+    padding: 1rem 0.5rem 0 0.5rem;
+    font-weight: bold;
+}
+
+.card__button {
+    cursor: pointer;
+    padding: 0.7rem 1.5rem;
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: 2.7rem;
+    background-color: #007bff;
+    color: #f5f5f5;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    font-weight: bold;
+}
+
+.card__button:active {
+    font-size: 0.8rem;
+}
+
+@media screen and (max-width: 65em) {
+    .cards {
+        grid-template-columns: repeat(3, 14rem);
+    }
+}
+
+@media screen and (max-width: 45em) {
+    .cards {
+        grid-template-columns: repeat(2, 14rem);
+    }
+}
+
+@media screen and (max-width: 35em) {
+    .cards {
+        grid-template-columns: repeat(2, 13rem);
+        column-gap: 0.5rem;
+    }
+    .card__image {
+        height: 10rem;
+        width: 10rem;
+        margin-left: 1rem;
+        padding-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 30em) {
+    .cards {
+        grid-template-columns: repeat(2, 11rem);
+        column-gap: 0.5rem;
+    }
+    .card__image {
+        height: 8rem;
+        width: 8rem;
+        margin-left: 1rem;
+        padding-top: 1rem;
+    }
+
+    .card__button {
+        padding: 0.5rem 0.7rem;
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (max-width: 25em) {
+    .cards {
+        grid-template-columns: repeat(2, 10rem);
+    }
+}
+
+@media screen and (max-width: 20em) {
+    .card__image {
+        height: 7rem;
+        width: 6rem;
+    }
+
+    .cards {
+        grid-template-columns: repeat(2, 9rem);
+    }
+
+    .card__button {
+        padding: 0.5rem 0.4rem;
+        margin-left: 1rem;
+    }
+}
+
+
+

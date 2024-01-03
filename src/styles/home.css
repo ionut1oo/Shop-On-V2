@@ -1,0 +1,80 @@
+.home__laptops-category {
+    margin-top: 0.8rem;
+    background-color: #ffffff;
+    color: #4FAFD5;
+    padding: 0.4rem 0 0.4rem 3rem;
+    letter-spacing: 1px;
+    font-weight: 200;
+    width: 64vw;
+    margin-left: 16.5rem;
+}
+ 
+@media screen and (max-width: 75em) {
+    .home__laptops-category {
+        margin-left: 8rem;
+        width: 79vw;
+    }
+}
+
+@media screen and (max-width: 70em) {
+    .home__laptops-category {
+        margin-left: 5.3rem;
+        width: 85vw;
+    }
+}
+
+@media screen and (max-width: 65em) {
+    .home__laptops-category {
+        margin-left: 9.5rem;
+        width: 70vw;
+    }
+}
+
+@media screen and (max-width: 55em) {
+    .home__laptops-category {
+        margin-left: 4.7rem;
+        width: 82vw;
+    }
+}
+
+@media screen and (max-width: 50em) {
+    .home__laptops-category {
+        /* margin-top: 4rem; */
+        margin-left: 2.7rem;
+        width: 89vw;
+    }
+}
+
+@media screen and (max-width: 45em) {
+    .home__logo {
+        width: 6rem;
+    }
+
+    .home__laptops-category {
+        margin-left: 7.5rem;
+        width: 66vw;
+    }
+}
+
+
+@media screen and (max-width: 40em) {
+    .home__laptops-category {
+        margin-left: 5.1rem;
+        width: 74vw;
+    }
+
+}
+
+@media screen and (max-width: 35em) {
+    .home__laptops-category {
+        margin-left: 3rem;
+        width: 82vw;
+    }
+}
+
+@media screen and (max-width: 30em) {
+    .home__laptops-category {
+        margin-left: 3.7rem;
+        width: 75vw;
+    }
+}

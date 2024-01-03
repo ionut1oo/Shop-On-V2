@@ -1,0 +1,181 @@
+.search-bar {
+    display: grid;
+    grid-template-columns: 30rem;
+    position: absolute;
+    top: 1.5rem;
+    left: 25rem;
+}
+
+.search-bar__input {
+    padding: 1.5rem 7rem;
+    border-radius: 7px;
+    border: 2px solid #4FAFD5;
+    caret-color: #4FAFD5;
+}
+
+.search-bar__input:focus {
+    outline: 0;
+}
+
+.search-bar__button {
+    height: 0.8rem;
+    width: 1px;
+    background-color: #ffffff;
+    border: none;
+    font-size: 1.3rem;
+    position: absolute;
+    left: 28rem;
+    top: 1.5rem;
+    cursor: pointer;
+}
+
+.search-bar__button:active {
+    color: grey;
+}
+
+@media screen and (max-width: 75em) {
+    .search-bar  {
+        grid-template-columns: 25rem;
+        left: 19.7rem;
+    }
+
+    .search-bar__button {
+        left: 22rem;
+    }
+}
+
+
+@media screen and (max-width: 70em) {
+    .search-bar  {
+        grid-template-columns: 20rem;
+        left: 19rem;
+    }
+
+    .search-bar__button {
+        left: 15rem;
+    }
+}
+
+@media screen and (max-width: 65em) {
+    .search-bar  {
+        grid-template-columns: 17rem;
+        left: 18rem;
+    }
+
+    .search-bar__button {
+        left: 15rem;
+    }
+}
+
+@media screen and (max-width: 60em) {
+    .search-bar  {
+        grid-template-columns: 20rem;
+        left: 16rem;
+    }
+
+    .search-bar__button {
+        left: 18rem;
+    }
+}
+
+@media screen and (max-width: 55em) {
+    .search-bar  {
+        grid-template-columns: 31rem;
+        left: 8rem;
+    }
+
+    .search-bar__button {
+        left: 29rem;
+    }
+}
+
+
+@media screen and (max-width: 45em) {
+    .search-bar  {
+        grid-template-columns: 27rem;
+        left: 8rem;
+    }
+
+    .search-bar__button {
+        left: 25rem;
+    }
+}
+
+@media screen and (max-width: 40em) {
+    .search-bar  {
+        grid-template-columns: 20rem;
+        left: 8rem;
+    }
+
+    .search-bar__button {
+        left: 17rem;
+    }
+}
+
+@media screen and (max-width: 35em) {
+    .search-bar  {
+        grid-template-columns: 13rem;
+        left: 6.5rem;
+    }
+
+    .search-bar__input {
+        padding: 1.5rem 4rem;
+    }
+
+    .search-bar__button {
+        left: 10rem;
+    }
+}
+
+@media screen and (max-width: 30em) {
+    .search-bar__input {
+        padding: 1.5rem 3rem;
+    }
+
+    .search-bar  {
+        grid-template-columns: 11rem;
+        left: 6.3rem;
+    }
+
+    .search-bar__button {
+        left: 9rem;
+    }
+}
+
+@media screen and (max-width: 25em) {
+    .search-bar  {
+        grid-template-columns: 9rem;
+    }
+    
+    .search-bar__button {
+        left: 7rem;
+    }
+
+    .search-bar__input {
+        padding: 1.5rem 3rem;
+    }
+}
+
+@media screen and (max-width: 25em) {
+    .search-bar  {
+        grid-template-columns: 8rem;
+    }
+
+    .search-bar__button {
+        left: 6rem;
+    }
+
+    .search-bar__input {
+        padding: 1.5rem 1rem;
+    }
+}
+
+@media screen and (max-width: 20em) {
+    .search-bar  {
+        grid-template-columns: 5.1rem;
+    }
+
+    .search-bar__button {
+        left: 3.8rem;
+    }
+}

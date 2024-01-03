@@ -1,0 +1,125 @@
+.item {
+    margin: 1.5rem auto;
+    background-color: #ffffff;
+    width: 50vw;
+}
+
+.item__name {
+    font-weight: 500;
+    font-size: 22px;
+    padding-top: 1rem;
+    margin-left: 2rem;
+}
+
+.item__image {
+    margin-top: 3rem;
+    margin-left: 8rem;
+    width: 17vw;
+}
+
+.item__buy-it {
+    position: relative;
+    bottom: 10.5rem;
+    left: 65%;
+}
+
+.item__buy-it__price {
+    margin-left: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: .5rem;
+    
+}
+
+.item__button {
+    padding: 15px 34px;
+    color: #ffffff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.item__details {
+    margin: 0 2rem;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    padding-bottom: 1.5rem;
+}
+
+@media screen and (max-width: 70em) {
+    .item__button {
+        margin-top: 1rem;
+        margin-left: 2rem;
+    }
+    
+}
+
+@media screen and (max-width: 65em) {
+    .item__name {
+        font-weight: 500;
+        font-size: 18px;
+        padding-top: 1rem;
+        margin-left: 2rem;
+    }
+
+    .item__details {
+        font-size: 0.9rem;
+    }
+
+    .item__buy-it {
+        position: relative;
+        bottom: -1rem;
+        left: 25%;
+    }
+
+    .item__button {
+        margin-top: 0;
+        margin-left: 1.2rem;
+        padding: 0.7rem 1.5rem;
+    }
+    
+    .item__details {
+        margin: 2.5rem 2rem;
+    }
+    
+}
+
+@media screen and (max-width: 60em) {
+    /* .item {
+        width: 35vw;
+    } */
+    
+}
+
+@media screen and (max-width: 55em) {
+    .item__image {
+        margin-left: 5rem;
+    }
+    
+    .item__buy-it {
+        bottom: -1rem;
+        left: 16%;
+    }
+}
+
+@media screen and (max-width: 35em) {
+     .item {
+        width: 85vw;
+    } 
+    
+    .item__button {
+        margin-top: 0;
+        margin-left: 1.2rem;
+    }
+    .item__image {
+        width: 40vw;
+        margin-left: 5.5rem;
+    }
+
+    .item__buy-it {
+        bottom: -1rem;
+        left: 23%;
+    }
+}

@@ -1,0 +1,20 @@
+.footer {
+    background-color: #C1BCBC;
+    height: 10rem;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.footer__description {
+    color: #01709D;
+    letter-spacing: 0.5px;
+    font-size: 1.1rem;
+
+}
+
+@media screen and (max-width: 55em) {
+    .footer {
+        text-align: center;
+    }
+}
