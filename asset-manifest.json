@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ionut1oo/Shop-On-V2/static/css/main.989b5e7a.css",
+    "main.js": "/ionut1oo/Shop-On-V2/static/js/main.cf65d0bb.js",
+    "index.html": "/ionut1oo/Shop-On-V2/index.html",
+    "main.989b5e7a.css.map": "/ionut1oo/Shop-On-V2/static/css/main.989b5e7a.css.map",
+    "main.cf65d0bb.js.map": "/ionut1oo/Shop-On-V2/static/js/main.cf65d0bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989b5e7a.css",
+    "static/js/main.cf65d0bb.js"
+  ]
+}
