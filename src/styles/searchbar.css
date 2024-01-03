@@ -70,7 +70,7 @@
 @media screen and (max-width: 60em) {
     .search-bar  {
         grid-template-columns: 20rem;
-        left: 16rem;
+        left: 18rem;
     }
 
     .search-bar__button {
@@ -177,5 +177,7 @@
 
     .search-bar__button {
         left: 3.8rem;
+        font-size: 1rem;
+        top: 1.6rem;
     }
 }
