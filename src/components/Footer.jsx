@@ -4,7 +4,7 @@ import "../styles/footer.css";
 const Footer = () => {
     return (
         <div className="footer">
-            <p className="footer__description">@ 2023.Designed & Developed by Ionut Ciornei</p>
+            <p className="footer__description">©  2023.Designed & Developed by Ionut Ciornei</p>
         </div>
     )
 }

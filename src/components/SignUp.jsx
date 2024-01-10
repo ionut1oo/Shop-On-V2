@@ -69,7 +69,7 @@ const SignUp = () => {
         {succes ? (
             <div>
                 <h1 className='succes'>Success!</h1>
-                <p> 
+                <p className='succes__home'> 
                 <Link to="/" >Home</Link>
                 </p>
             </div>

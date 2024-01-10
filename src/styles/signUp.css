@@ -80,6 +80,10 @@ form {
     color: #4FAFD5;
 }
 
+.succes, .succes__home {
+    text-align: center;
+}
+
 @media screen and (max-width: 45em) {
     form {
         padding: 4rem 3rem;
