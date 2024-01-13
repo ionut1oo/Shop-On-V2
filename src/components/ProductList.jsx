@@ -50,7 +50,7 @@ const ProductList = ({ searchTerm }) => {
             ))}
             {showAlert && (
                 <div className="custom-alert">
-                    The product has been successfully added to the basket
+                    The product has been successfully added to the cart
                 </div>
             )}
         </div>
