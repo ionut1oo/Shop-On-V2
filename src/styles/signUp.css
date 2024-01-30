@@ -112,6 +112,10 @@ form {
     form {
         padding: 3rem 2rem;
     }
+
+    .login {
+        padding: 0.5rem;
+    }
 }
 
 @media screen and (max-width: 25em) {
