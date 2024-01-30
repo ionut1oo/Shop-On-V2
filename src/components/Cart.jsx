@@ -17,12 +17,8 @@ const Cart = () => {
     }
   };
 
-  function roundToTwo(num) {    
-    return +(Math.round(num + "e+2")  + "e-2");
-}
-
-const getTotalPrice = () => {
-    return roundToTwo(cartItems.reduce((acc, item) => {
+  const getTotalPrice = () => {
+    return cartItems.reduce((acc, item) => {
       const price = parseFloat(item.price);
       const quantity = parseInt(item.quantity);
 
@@ -32,7 +28,7 @@ const getTotalPrice = () => {
         console.error("Invalid price or quantity for item:", item);
         return acc;
       }
-    }, 0));
+    }, 0);
   };
 
   return (
