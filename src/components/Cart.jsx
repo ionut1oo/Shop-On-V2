@@ -18,7 +18,7 @@ const Cart = () => {
   };
 
   const getTotalPrice = () => {
-    return cartItems.reduce((acc, item) => {
+    return Math.round(cartItems.reduce((acc, item) => {
       const price = parseFloat(item.price);
       const quantity = parseInt(item.quantity);
 
@@ -28,8 +28,9 @@ const Cart = () => {
         console.error("Invalid price or quantity for item:", item);
         return acc;
       }
-    }, 0);
+    }, 0) * 100) / 100;
   };
+
 
   return (
     <div>
